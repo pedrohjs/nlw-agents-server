@@ -15,6 +15,13 @@
       "when": 1752084911236,
       "tag": "0001_complex_boomerang",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752360493480,
+      "tag": "0002_nice_natasha_romanoff",
+      "breakpoints": true
     }
   ]
 }
